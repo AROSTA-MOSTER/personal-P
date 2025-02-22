@@ -16,4 +16,4 @@ This is a personal portfolio website built using **HTML, CSS, JavaScript, and Bo
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   https://github.com/AROSTA-MOSTER/personal-P.git
